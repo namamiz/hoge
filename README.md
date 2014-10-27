@@ -1,5 +1,5 @@
 # hoge
-hoge *hogehoge?* **hogehoge!** _h o g e_
+hoge *hogehoge?* **hogehoge!** _hoge_
 ## hogehoge
 * h
 * o
