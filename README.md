@@ -26,6 +26,6 @@ x = 2 + 2
 what is x
 ```
 
-[Visit GitHub!](www.github.com)
+[Visit GitHub!](http://www.github.com)
 
 ====
