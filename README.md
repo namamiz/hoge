@@ -13,8 +13,8 @@ hoge *hogehoge?* **hogehoge!** _hoge_
 - hoge
 
 1. hoge
-3. hogu
-3. homu
-4. hoga
+1. hogu
+1. homu
+1. hoga
 
 ====
