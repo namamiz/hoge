@@ -1,5 +1,5 @@
 # hoge
-hoge *hogehoge?* **hogehoge!** _hoge_ wow_great_stuff
+hoge *hogehoge?* **hogehoge!** _hoge_ _wow_great_stuff_
 ## hogehoge
 aaa
 * h
