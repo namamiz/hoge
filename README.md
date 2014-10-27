@@ -9,8 +9,10 @@ hoge *hogehoge?* **hogehoge!** _hoge_
 - ho
 - hog
 - hoge
+
 1. hoge
 2. hogu
 3. homu
-3. hoga
+4. hoga
+
 ====
