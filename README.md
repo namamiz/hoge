@@ -20,4 +20,10 @@ ccc
 1. homu
 1. hoga
 
+```
+x = 0
+x = 2 + 2
+what is x
+```
+
 ====
